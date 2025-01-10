@@ -1,0 +1,801 @@
+2024-11-26 14:19:30,640 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.8, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,640 - DEBUG - Instance ID: 8
+2024-11-26 14:19:30,641 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.9, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,641 - DEBUG - Instance ID: 9
+2024-11-26 14:19:30,641 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.10, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,641 - DEBUG - Instance ID: 10
+2024-11-26 14:19:30,641 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.11, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,641 - DEBUG - Instance ID: 11
+2024-11-26 14:19:30,641 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.12, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,641 - DEBUG - Instance ID: 12
+2024-11-26 14:19:30,641 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.13, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,641 - DEBUG - Instance ID: 13
+2024-11-26 14:19:30,641 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.14, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,641 - DEBUG - Instance ID: 14
+2024-11-26 14:19:30,641 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.15, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,642 - DEBUG - Instance ID: 15
+2024-11-26 14:19:30,642 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.16, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,642 - DEBUG - Instance ID: 16
+2024-11-26 14:19:30,642 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.17, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,643 - DEBUG - Instance ID: 17
+2024-11-26 14:19:30,643 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.18, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,643 - DEBUG - Instance ID: 18
+2024-11-26 14:19:30,643 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.19, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,643 - DEBUG - Instance ID: 19
+2024-11-26 14:19:30,643 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.20, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,643 - DEBUG - Instance ID: 20
+2024-11-26 14:19:30,643 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.21, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,643 - DEBUG - Instance ID: 21
+2024-11-26 14:19:30,643 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.22, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,643 - DEBUG - Instance ID: 22
+2024-11-26 14:19:30,643 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.23, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,643 - DEBUG - Instance ID: 23
+2024-11-26 14:19:30,643 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.24, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,643 - DEBUG - Instance ID: 24
+2024-11-26 14:19:30,643 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.25, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,643 - DEBUG - Instance ID: 25
+2024-11-26 14:19:30,644 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.26, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,644 - DEBUG - Instance ID: 26
+2024-11-26 14:19:30,644 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.27, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,644 - DEBUG - Instance ID: 27
+2024-11-26 14:19:30,644 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.28, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,644 - DEBUG - Instance ID: 28
+2024-11-26 14:19:30,644 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.29, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,644 - DEBUG - Instance ID: 29
+2024-11-26 14:19:30,644 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.30, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,644 - DEBUG - Instance ID: 30
+2024-11-26 14:19:30,645 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.31, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,645 - DEBUG - Instance ID: 31
+2024-11-26 14:19:30,645 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.32, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,645 - DEBUG - Instance ID: 32
+2024-11-26 14:19:30,645 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.33, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,645 - DEBUG - Instance ID: 33
+2024-11-26 14:19:30,645 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.34, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,645 - DEBUG - Instance ID: 34
+2024-11-26 14:19:30,645 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.35, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,645 - DEBUG - Instance ID: 35
+2024-11-26 14:19:30,645 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.36, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,645 - DEBUG - Instance ID: 36
+2024-11-26 14:19:30,645 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.37, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,645 - DEBUG - Instance ID: 37
+2024-11-26 14:19:30,645 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.38, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,645 - DEBUG - Instance ID: 38
+2024-11-26 14:19:30,645 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.39, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,645 - DEBUG - Instance ID: 39
+2024-11-26 14:19:30,646 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.40, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,646 - DEBUG - Instance ID: 40
+2024-11-26 14:19:30,646 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.41, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,646 - DEBUG - Instance ID: 41
+2024-11-26 14:19:30,646 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.42, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,646 - DEBUG - Instance ID: 42
+2024-11-26 14:19:30,646 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.43, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,646 - DEBUG - Instance ID: 43
+2024-11-26 14:19:30,646 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.44, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,646 - DEBUG - Instance ID: 44
+2024-11-26 14:19:30,646 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.45, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,646 - DEBUG - Instance ID: 45
+2024-11-26 14:19:30,646 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.46, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,646 - DEBUG - Instance ID: 46
+2024-11-26 14:19:30,647 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.47, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,647 - DEBUG - Instance ID: 47
+2024-11-26 14:19:30,647 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.48, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,647 - DEBUG - Instance ID: 48
+2024-11-26 14:19:30,647 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.49, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,647 - DEBUG - Instance ID: 49
+2024-11-26 14:19:30,647 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.50, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,647 - DEBUG - Instance ID: 50
+2024-11-26 14:19:30,647 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.51, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,647 - DEBUG - Instance ID: 51
+2024-11-26 14:19:30,647 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.52, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,647 - DEBUG - Instance ID: 52
+2024-11-26 14:19:30,647 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.53, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,647 - DEBUG - Instance ID: 53
+2024-11-26 14:19:30,647 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.54, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,647 - DEBUG - Instance ID: 54
+2024-11-26 14:19:30,648 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.55, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,648 - DEBUG - Instance ID: 55
+2024-11-26 14:19:30,648 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.57, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,648 - DEBUG - Instance ID: 57
+2024-11-26 14:19:30,648 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.58, Name: cafPortControlledDirection, Value: 0
+2024-11-26 14:19:30,648 - DEBUG - Instance ID: 58
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.8, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 8
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.9, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 9
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.10, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 10
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.11, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 11
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.12, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 12
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.13, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 13
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.14, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 14
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.15, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 15
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.16, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 16
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.17, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 17
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.18, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 18
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.19, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 19
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.20, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 20
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.21, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 21
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.22, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 22
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.23, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 23
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.24, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,385 - DEBUG - Instance ID: 24
+2024-11-26 14:19:31,385 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.25, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 25
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.26, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 26
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.27, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 27
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.28, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 28
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.29, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 29
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.30, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 30
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.31, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 31
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.32, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 32
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.33, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 33
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.34, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 34
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.35, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 35
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.36, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 36
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.37, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 37
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.38, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 38
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.39, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 39
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.40, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 40
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.41, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 41
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.42, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 42
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.43, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 43
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.44, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 44
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.45, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 45
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.46, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 46
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.47, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 47
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.48, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 48
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.49, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 49
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.50, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 50
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.51, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 51
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.52, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 52
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.53, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 53
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.54, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 54
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.55, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 55
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.57, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 57
+2024-11-26 14:19:31,401 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.58, Name: cafPortAuthHostMode, Value: 3
+2024-11-26 14:19:31,401 - DEBUG - Instance ID: 58
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.8, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 8
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.9, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 9
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.10, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 10
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.11, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 11
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.12, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 12
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.13, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 13
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.14, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 14
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.15, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 15
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.16, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 16
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.17, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 17
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.18, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 18
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.19, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 19
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.20, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 20
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.21, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 21
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.22, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 22
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.23, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 23
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.24, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 24
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.25, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 25
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.26, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 26
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.27, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 27
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.28, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 28
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.29, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 29
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.30, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 30
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.31, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 31
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.32, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 32
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.33, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 33
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.34, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 34
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.35, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 35
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.36, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 36
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.37, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 37
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.38, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 38
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.39, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 39
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.40, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 40
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.41, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 41
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.42, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 42
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.43, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 43
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.44, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 44
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.45, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 45
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.46, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 46
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.47, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 47
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.48, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 48
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.49, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 49
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.50, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 50
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.51, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 51
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.52, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 52
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.53, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 53
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.54, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 54
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.55, Name: cafPortPreAuthOpenAccess, Value: 1
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 55
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.57, Name: cafPortPreAuthOpenAccess, Value: 2
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 57
+2024-11-26 14:19:31,632 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.58, Name: cafPortPreAuthOpenAccess, Value: 2
+2024-11-26 14:19:31,632 - DEBUG - Instance ID: 58
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.8, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 8
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.9, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 9
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.10, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 10
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.11, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 11
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.12, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 12
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.13, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 13
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.14, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 14
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.15, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 15
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.16, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 16
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.17, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 17
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.18, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 18
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.19, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 19
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.20, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 20
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.21, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 21
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.22, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 22
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.23, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 23
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.24, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 24
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.25, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 25
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.26, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 26
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.27, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 27
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.28, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 28
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.29, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 29
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.30, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 30
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.31, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 31
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.32, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 32
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.33, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 33
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.34, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 34
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.35, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 35
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.36, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 36
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.37, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 37
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.38, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 38
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.39, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 39
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.40, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 40
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.41, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 41
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.42, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 42
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.43, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 43
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.44, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 44
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.45, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 45
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.46, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 46
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.47, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 47
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.48, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 48
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.49, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 49
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.50, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 50
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.51, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 51
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.52, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 52
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.53, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 53
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.54, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 54
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.55, Name: cafPortAuthorizeControl, Value: 2
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 55
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.57, Name: cafPortAuthorizeControl, Value: 3
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 57
+2024-11-26 14:19:31,904 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.58, Name: cafPortAuthorizeControl, Value: 3
+2024-11-26 14:19:31,904 - DEBUG - Instance ID: 58
+2024-11-26 14:19:32,137 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.8, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,137 - DEBUG - Instance ID: 8
+2024-11-26 14:19:32,138 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.9, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,138 - DEBUG - Instance ID: 9
+2024-11-26 14:19:32,138 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.10, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,138 - DEBUG - Instance ID: 10
+2024-11-26 14:19:32,138 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.11, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,138 - DEBUG - Instance ID: 11
+2024-11-26 14:19:32,139 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.12, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,139 - DEBUG - Instance ID: 12
+2024-11-26 14:19:32,139 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.13, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,139 - DEBUG - Instance ID: 13
+2024-11-26 14:19:32,139 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.14, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,139 - DEBUG - Instance ID: 14
+2024-11-26 14:19:32,139 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.15, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,139 - DEBUG - Instance ID: 15
+2024-11-26 14:19:32,139 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.16, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,139 - DEBUG - Instance ID: 16
+2024-11-26 14:19:32,139 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.17, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,139 - DEBUG - Instance ID: 17
+2024-11-26 14:19:32,139 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.18, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,139 - DEBUG - Instance ID: 18
+2024-11-26 14:19:32,139 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.19, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,139 - DEBUG - Instance ID: 19
+2024-11-26 14:19:32,140 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.20, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,140 - DEBUG - Instance ID: 20
+2024-11-26 14:19:32,140 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.21, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,140 - DEBUG - Instance ID: 21
+2024-11-26 14:19:32,140 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.22, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,140 - DEBUG - Instance ID: 22
+2024-11-26 14:19:32,140 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.23, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,140 - DEBUG - Instance ID: 23
+2024-11-26 14:19:32,140 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.24, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,140 - DEBUG - Instance ID: 24
+2024-11-26 14:19:32,140 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.25, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,140 - DEBUG - Instance ID: 25
+2024-11-26 14:19:32,140 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.26, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,140 - DEBUG - Instance ID: 26
+2024-11-26 14:19:32,140 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.27, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,141 - DEBUG - Instance ID: 27
+2024-11-26 14:19:32,141 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.28, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,141 - DEBUG - Instance ID: 28
+2024-11-26 14:19:32,141 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.29, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,141 - DEBUG - Instance ID: 29
+2024-11-26 14:19:32,141 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.30, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,141 - DEBUG - Instance ID: 30
+2024-11-26 14:19:32,141 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.31, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,141 - DEBUG - Instance ID: 31
+2024-11-26 14:19:32,141 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.32, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,141 - DEBUG - Instance ID: 32
+2024-11-26 14:19:32,141 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.33, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,141 - DEBUG - Instance ID: 33
+2024-11-26 14:19:32,141 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.34, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,141 - DEBUG - Instance ID: 34
+2024-11-26 14:19:32,141 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.35, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,141 - DEBUG - Instance ID: 35
+2024-11-26 14:19:32,142 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.36, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,142 - DEBUG - Instance ID: 36
+2024-11-26 14:19:32,142 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.37, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,142 - DEBUG - Instance ID: 37
+2024-11-26 14:19:32,142 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.38, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,142 - DEBUG - Instance ID: 38
+2024-11-26 14:19:32,142 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.39, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,142 - DEBUG - Instance ID: 39
+2024-11-26 14:19:32,142 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.40, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,142 - DEBUG - Instance ID: 40
+2024-11-26 14:19:32,142 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.41, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,144 - DEBUG - Instance ID: 41
+2024-11-26 14:19:32,144 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.42, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,144 - DEBUG - Instance ID: 42
+2024-11-26 14:19:32,144 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.43, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,144 - DEBUG - Instance ID: 43
+2024-11-26 14:19:32,144 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.44, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,144 - DEBUG - Instance ID: 44
+2024-11-26 14:19:32,144 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.45, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,144 - DEBUG - Instance ID: 45
+2024-11-26 14:19:32,144 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.46, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,144 - DEBUG - Instance ID: 46
+2024-11-26 14:19:32,144 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.47, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,144 - DEBUG - Instance ID: 47
+2024-11-26 14:19:32,144 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.48, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,144 - DEBUG - Instance ID: 48
+2024-11-26 14:19:32,145 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.49, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,145 - DEBUG - Instance ID: 49
+2024-11-26 14:19:32,145 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.50, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,145 - DEBUG - Instance ID: 50
+2024-11-26 14:19:32,145 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.51, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,145 - DEBUG - Instance ID: 51
+2024-11-26 14:19:32,145 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.52, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,145 - DEBUG - Instance ID: 52
+2024-11-26 14:19:32,145 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.53, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,145 - DEBUG - Instance ID: 53
+2024-11-26 14:19:32,145 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.54, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,145 - DEBUG - Instance ID: 54
+2024-11-26 14:19:32,145 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.55, Name: cafPortReauthEnabled, Value: 1
+2024-11-26 14:19:32,145 - DEBUG - Instance ID: 55
+2024-11-26 14:19:32,145 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.57, Name: cafPortReauthEnabled, Value: 2
+2024-11-26 14:19:32,145 - DEBUG - Instance ID: 57
+2024-11-26 14:19:32,146 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.58, Name: cafPortReauthEnabled, Value: 2
+2024-11-26 14:19:32,146 - DEBUG - Instance ID: 58
+2024-11-26 14:19:32,412 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.8, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,412 - DEBUG - Instance ID: 8
+2024-11-26 14:19:32,412 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.9, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,412 - DEBUG - Instance ID: 9
+2024-11-26 14:19:32,412 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.10, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,413 - DEBUG - Instance ID: 10
+2024-11-26 14:19:32,413 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.11, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,413 - DEBUG - Instance ID: 11
+2024-11-26 14:19:32,413 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.12, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,413 - DEBUG - Instance ID: 12
+2024-11-26 14:19:32,413 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.13, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,413 - DEBUG - Instance ID: 13
+2024-11-26 14:19:32,413 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.14, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,413 - DEBUG - Instance ID: 14
+2024-11-26 14:19:32,413 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.15, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,413 - DEBUG - Instance ID: 15
+2024-11-26 14:19:32,413 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.16, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,414 - DEBUG - Instance ID: 16
+2024-11-26 14:19:32,414 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.17, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,414 - DEBUG - Instance ID: 17
+2024-11-26 14:19:32,414 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.18, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,414 - DEBUG - Instance ID: 18
+2024-11-26 14:19:32,414 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.19, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,414 - DEBUG - Instance ID: 19
+2024-11-26 14:19:32,414 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.20, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,414 - DEBUG - Instance ID: 20
+2024-11-26 14:19:32,414 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.21, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,414 - DEBUG - Instance ID: 21
+2024-11-26 14:19:32,414 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.22, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,415 - DEBUG - Instance ID: 22
+2024-11-26 14:19:32,415 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.23, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,415 - DEBUG - Instance ID: 23
+2024-11-26 14:19:32,415 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.24, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,415 - DEBUG - Instance ID: 24
+2024-11-26 14:19:32,415 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.25, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,416 - DEBUG - Instance ID: 25
+2024-11-26 14:19:32,416 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.26, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,416 - DEBUG - Instance ID: 26
+2024-11-26 14:19:32,416 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.27, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,416 - DEBUG - Instance ID: 27
+2024-11-26 14:19:32,416 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.28, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,416 - DEBUG - Instance ID: 28
+2024-11-26 14:19:32,416 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.29, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,416 - DEBUG - Instance ID: 29
+2024-11-26 14:19:32,416 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.30, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,416 - DEBUG - Instance ID: 30
+2024-11-26 14:19:32,416 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.31, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,416 - DEBUG - Instance ID: 31
+2024-11-26 14:19:32,416 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.32, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,416 - DEBUG - Instance ID: 32
+2024-11-26 14:19:32,417 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.33, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,417 - DEBUG - Instance ID: 33
+2024-11-26 14:19:32,417 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.34, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,417 - DEBUG - Instance ID: 34
+2024-11-26 14:19:32,417 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.35, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,417 - DEBUG - Instance ID: 35
+2024-11-26 14:19:32,417 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.36, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,417 - DEBUG - Instance ID: 36
+2024-11-26 14:19:32,417 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.37, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,417 - DEBUG - Instance ID: 37
+2024-11-26 14:19:32,417 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.38, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,417 - DEBUG - Instance ID: 38
+2024-11-26 14:19:32,417 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.39, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,417 - DEBUG - Instance ID: 39
+2024-11-26 14:19:32,418 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.40, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,418 - DEBUG - Instance ID: 40
+2024-11-26 14:19:32,418 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.41, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,418 - DEBUG - Instance ID: 41
+2024-11-26 14:19:32,418 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.42, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,418 - DEBUG - Instance ID: 42
+2024-11-26 14:19:32,418 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.43, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,418 - DEBUG - Instance ID: 43
+2024-11-26 14:19:32,418 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.44, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,418 - DEBUG - Instance ID: 44
+2024-11-26 14:19:32,418 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.45, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,418 - DEBUG - Instance ID: 45
+2024-11-26 14:19:32,418 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.46, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,418 - DEBUG - Instance ID: 46
+2024-11-26 14:19:32,418 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.47, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,418 - DEBUG - Instance ID: 47
+2024-11-26 14:19:32,418 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.48, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,418 - DEBUG - Instance ID: 48
+2024-11-26 14:19:32,418 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.49, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,419 - DEBUG - Instance ID: 49
+2024-11-26 14:19:32,419 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.50, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,419 - DEBUG - Instance ID: 50
+2024-11-26 14:19:32,419 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.51, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,419 - DEBUG - Instance ID: 51
+2024-11-26 14:19:32,419 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.52, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,419 - DEBUG - Instance ID: 52
+2024-11-26 14:19:32,420 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.53, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,420 - DEBUG - Instance ID: 53
+2024-11-26 14:19:32,420 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.54, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,420 - DEBUG - Instance ID: 54
+2024-11-26 14:19:32,420 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.55, Name: cafPortReauthInterval, Value: 0
+2024-11-26 14:19:32,420 - DEBUG - Instance ID: 55
+2024-11-26 14:19:32,420 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.57, Name: cafPortReauthInterval, Value: 3600
+2024-11-26 14:19:32,420 - DEBUG - Instance ID: 57
+2024-11-26 14:19:32,420 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.58, Name: cafPortReauthInterval, Value: 3600
+2024-11-26 14:19:32,420 - DEBUG - Instance ID: 58
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.8, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 8
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.9, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 9
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.10, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 10
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.11, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 11
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.12, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 12
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.13, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 13
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.14, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 14
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.15, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 15
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.16, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 16
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.17, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 17
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.18, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 18
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.19, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 19
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.20, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 20
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.21, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 21
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.22, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 22
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.23, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 23
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.24, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 24
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.25, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 25
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.26, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 26
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.27, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 27
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.28, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 28
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.29, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 29
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.30, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 30
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.31, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 31
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.32, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 32
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.33, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 33
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.34, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 34
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.35, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 35
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.36, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 36
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.37, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 37
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.38, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 38
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.39, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 39
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.40, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 40
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.41, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 41
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.42, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 42
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.43, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 43
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.44, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 44
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.45, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 45
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.46, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 46
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.47, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 47
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.48, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 48
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.49, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 49
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.50, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 50
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.51, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 51
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.52, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 52
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.53, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 53
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.54, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 54
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.55, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 55
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.57, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 57
+2024-11-26 14:19:32,861 - DEBUG - OID: SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.58, Name: cafPortInactivityTimeout, Value: 0
+2024-11-26 14:19:32,861 - DEBUG - Instance ID: 58
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.8: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.8: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.8: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.8: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.8: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.8: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.8: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.9: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.9: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.9: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.9: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.9: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.9: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.9: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.10: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.10: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.10: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.10: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.10: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.10: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.10: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.11: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.11: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.11: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.11: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.11: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.11: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.11: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.12: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.12: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.12: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.12: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.12: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.12: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.12: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.13: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.13: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.13: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.13: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.13: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.13: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.13: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.14: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.14: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.14: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.14: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.14: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.14: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.14: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.15: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.15: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.15: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.15: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.15: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.15: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.15: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.16: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.16: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.16: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.16: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.16: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.16: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.16: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.17: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.17: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.17: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.17: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.17: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.17: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.17: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.18: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.18: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.18: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.18: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.18: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.18: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.18: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.19: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.19: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.19: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.19: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.19: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.19: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.19: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.20: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.20: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.20: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.20: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.20: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.20: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.20: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.21: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.21: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.21: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.21: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.21: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.21: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.21: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.22: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.22: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.22: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.22: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.22: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.22: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.22: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.23: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.23: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.23: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.23: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.23: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.23: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.23: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.24: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.24: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.24: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.24: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.24: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.24: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.24: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.25: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.25: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.25: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.25: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.25: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.25: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.25: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.26: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.26: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.26: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.26: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.26: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.26: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.26: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.27: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.27: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.27: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.27: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.27: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.27: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.27: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.28: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.28: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.28: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.28: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.28: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.28: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.28: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.29: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.29: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.29: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.29: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.29: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.29: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.29: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.30: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.30: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.30: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.30: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.30: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.30: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.30: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.31: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.31: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.31: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.31: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.31: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.31: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.31: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.32: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.32: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.32: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.32: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.32: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.32: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.32: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.33: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.33: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.33: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.33: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.33: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.33: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.33: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.34: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.34: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.34: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.34: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.34: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.34: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.34: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.35: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.35: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.35: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.35: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.35: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.35: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.35: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.36: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.36: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.36: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.36: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.36: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.36: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.36: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.37: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.37: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.37: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.37: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.37: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.37: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.37: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.38: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.38: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.38: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.38: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.38: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.38: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.38: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.39: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.39: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.39: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.39: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.39: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.39: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.39: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.40: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.40: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.40: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.40: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.40: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.40: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.40: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.41: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.41: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.41: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.41: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.41: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.41: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.41: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.42: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.42: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.42: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.42: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.42: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.42: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.42: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.43: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.43: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.43: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.43: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.43: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.43: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.43: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.44: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.44: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.44: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.44: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.44: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.44: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.44: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.45: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.45: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.45: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.45: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.45: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.45: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.45: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.46: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.46: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.46: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.46: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.46: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.46: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.46: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.47: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.47: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.47: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.47: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.47: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.47: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.47: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.48: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.48: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.48: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.48: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.48: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.48: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.48: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.49: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.49: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.49: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.49: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.49: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.49: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.49: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.50: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.50: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.50: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.50: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.50: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.50: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.50: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.51: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.51: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.51: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.51: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.51: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.51: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.51: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.52: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.52: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.52: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.52: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.52: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.52: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.52: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.53: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.53: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.53: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.53: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.53: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.53: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.53: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.54: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.54: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.54: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.54: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.54: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.54: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.54: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.55: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.55: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.55: 1', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.55: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.55: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.55: 0', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.55: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.57: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.57: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.57: 2', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.57: 3', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.57: 2', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.57: 3600', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.57: 0'}
+2024-11-26 14:19:32,861 - DEBUG - Complete row: {'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.58: 0', 'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.58: 3', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.58: 2', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.58: 3', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.58: 2', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.58: 3600', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.58: 0'}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.8: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.8: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.8: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.8: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.8: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.8: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.8: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.9: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.9: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.9: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.9: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.9: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.9: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.9: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.10: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.10: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.10: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.10: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.10: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.10: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.10: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.11: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.11: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.11: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.11: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.11: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.11: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.11: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.12: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.12: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.12: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.12: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.12: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.12: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.12: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.13: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.13: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.13: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.13: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.13: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.13: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.13: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.14: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.14: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.14: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.14: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.14: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.14: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.14: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.15: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.15: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.15: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.15: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.15: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.15: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.15: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.16: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.16: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.16: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.16: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.16: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.16: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.16: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.17: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.17: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.17: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.17: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.17: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.17: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.17: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.18: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.18: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.18: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.18: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.18: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.18: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.18: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.19: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.19: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.19: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.19: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.19: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.19: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.19: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.20: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.20: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.20: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.20: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.20: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.20: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.20: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.21: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.21: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.21: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.21: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.21: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.21: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.21: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.22: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.22: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.22: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.22: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.22: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.22: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.22: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.23: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.23: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.23: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.23: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.23: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.23: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.23: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.24: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.24: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.24: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.24: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.24: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.24: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.24: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.25: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.25: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.25: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.25: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.25: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.25: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.25: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.26: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.26: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.26: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.26: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.26: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.26: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.26: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.27: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.27: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.27: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.27: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.27: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.27: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.27: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.28: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.28: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.28: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.28: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.28: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.28: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.28: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.29: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.29: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.29: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.29: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.29: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.29: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.29: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.30: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.30: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.30: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.30: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.30: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.30: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.30: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.31: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.31: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.31: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.31: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.31: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.31: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.31: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.32: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.32: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.32: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.32: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.32: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.32: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.32: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.33: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.33: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.33: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.33: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.33: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.33: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.33: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.34: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.34: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.34: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.34: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.34: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.34: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.34: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.35: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.35: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.35: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.35: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.35: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.35: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.35: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.36: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.36: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.36: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.36: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.36: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.36: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.36: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.37: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.37: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.37: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.37: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.37: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.37: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.37: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.38: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.38: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.38: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.38: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.38: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.38: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.38: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.39: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.39: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.39: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.39: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.39: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.39: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.39: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.40: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.40: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.40: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.40: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.40: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.40: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.40: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.41: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.41: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.41: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.41: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.41: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.41: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.41: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.42: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.42: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.42: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.42: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.42: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.42: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.42: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.43: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.43: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.43: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.43: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.43: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.43: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.43: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.44: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.44: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.44: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.44: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.44: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.44: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.44: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.45: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.45: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.45: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.45: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.45: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.45: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.45: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.46: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.46: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.46: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.46: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.46: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.46: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.46: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.47: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.47: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.47: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.47: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.47: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.47: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.47: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.48: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.48: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.48: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.48: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.48: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.48: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.48: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.49: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.49: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.49: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.49: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.49: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.49: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.49: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.50: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.50: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.50: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.50: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.50: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.50: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.50: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.51: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.51: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.51: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.51: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.51: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.51: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.51: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.52: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.52: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.52: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.52: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.52: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.52: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.52: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.53: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.53: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.53: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.53: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.53: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.53: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.53: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.54: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.54: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.54: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.54: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.54: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.54: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.54: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.55: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.55: 2', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.55: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.55: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.55: 1', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.55: 1', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.55: 0', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.57: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.57: 3', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.57: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.57: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.57: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.57: 2', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.57: 3600', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - DEBUG - Writing row: {'cafPortAuthHostMode': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.3.58: 3', 'cafPortAuthorizeControl': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.5.58: 3', 'cafPortControlledDirection': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.1.58: 0', 'cafPortFallBackProfile': '', 'cafPortInactivityTimeout': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.9.58: 0', 'cafPortPreAuthOpenAccess': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.4.58: 2', 'cafPortReauthEnabled': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.6.58: 2', 'cafPortReauthInterval': 'SNMPv2-SMI::enterprises.9.9.656.1.2.1.1.7.58: 3600', 'cafPortRestartInterval': '', 'cafPortViolationAction': '', 'cafSessionId': ''}
+2024-11-26 14:19:32,877 - INFO - Data saved to 20241126_141932_8021xconfig.csv

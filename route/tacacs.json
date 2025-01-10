@@ -1,0 +1,1694 @@
+[
+    {
+        "id": "0677dfe2-5746-4148-827c-741a7439ac95",
+        "state": "ENABLED",
+        "name": "WLC_Access",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#WLC",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 0,
+        "hitCounts": 1253200,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "a902e81e-8963-425e-8476-266698599a2f",
+        "state": "ENABLED",
+        "name": "Services Accounts",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "OR_BLOCK",
+                "children": [
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "TACACS",
+                            "lhsAttribute": "User",
+                            "rhsDictionary": null,
+                            "rhsAttribute": "srv-solarwinds",
+                            "attributeName": "TACACS.User",
+                            "operator": "CONTAINS",
+                            "attributeValue": "srv-solarwinds",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": false,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "TACACS",
+                            "lhsAttribute": "User",
+                            "rhsDictionary": null,
+                            "rhsAttribute": "SRV-Tufin-FW-Admin",
+                            "attributeName": "TACACS.User",
+                            "operator": "EQUALS",
+                            "attributeValue": "SRV-Tufin-FW-Admin",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": false,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "TACACS",
+                            "lhsAttribute": "User",
+                            "rhsDictionary": null,
+                            "rhsAttribute": "solarwinds",
+                            "attributeName": "TACACS.User",
+                            "operator": "EQUALS",
+                            "attributeValue": "solarwinds",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": false,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "TACACS",
+                            "lhsAttribute": "User",
+                            "rhsDictionary": null,
+                            "rhsAttribute": "srv-cpi",
+                            "attributeName": "TACACS.User",
+                            "operator": "EQUALS",
+                            "attributeValue": "srv-cpi",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": false,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "TACACS",
+                            "lhsAttribute": "User",
+                            "rhsDictionary": null,
+                            "rhsAttribute": "hoadmin",
+                            "attributeName": "TACACS.User",
+                            "operator": "EQUALS",
+                            "attributeValue": "hoadmin",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": false,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "TACACS",
+                            "lhsAttribute": "User",
+                            "rhsDictionary": null,
+                            "rhsAttribute": "solarwinds",
+                            "attributeName": "TACACS.User",
+                            "operator": "CONTAINS",
+                            "attributeValue": "solarwinds",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": false,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    }
+                ],
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": null,
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 1,
+        "hitCounts": 152024650,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "dd71854b-91ce-48d1-979d-f6cd4f0161c9",
+        "state": "ENABLED",
+        "name": "DNA-C",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#DNA-C",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 2,
+        "hitCounts": 0,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "49a7ad14-1f3c-49a8-9019-bc28db2c97e9",
+        "state": "ENABLED",
+        "name": "SOLARWINDS_ACCESS_RW",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "AND_BLOCK",
+                "children": [
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "TACACS",
+                            "lhsAttribute": "User",
+                            "rhsDictionary": null,
+                            "rhsAttribute": "srv-solarwinds",
+                            "attributeName": "TACACS.User",
+                            "operator": "EQUALS",
+                            "attributeValue": "srv-solarwinds",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": false,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "OR_BLOCK",
+                        "children": [
+                            {
+                                "name": null,
+                                "description": null,
+                                "tags": null,
+                                "conditionId": null,
+                                "icon": null,
+                                "type": "SINGLE",
+                                "children": null,
+                                "simpleOrDateTime": "SIMPLE",
+                                "attributes": {
+                                    "lhsDictionary": "TACACS",
+                                    "lhsAttribute": "Remote-Address",
+                                    "rhsDictionary": null,
+                                    "rhsAttribute": "10.221.16.49",
+                                    "attributeName": "TACACS.Remote-Address",
+                                    "operator": "EQUALS",
+                                    "attributeValue": "10.221.16.49",
+                                    "attributeValueType": "STATIC",
+                                    "attributeValueIsEnum": false,
+                                    "attributeNameType": "STRING",
+                                    "attributeValueMultipleAllowed": false
+                                },
+                                "not": false
+                            },
+                            {
+                                "name": null,
+                                "description": null,
+                                "tags": null,
+                                "conditionId": null,
+                                "icon": null,
+                                "type": "SINGLE",
+                                "children": null,
+                                "simpleOrDateTime": "SIMPLE",
+                                "attributes": {
+                                    "lhsDictionary": "TACACS",
+                                    "lhsAttribute": "Remote-Address",
+                                    "rhsDictionary": null,
+                                    "rhsAttribute": "10.221.16.17",
+                                    "attributeName": "TACACS.Remote-Address",
+                                    "operator": "EQUALS",
+                                    "attributeValue": "10.221.16.17",
+                                    "attributeValueType": "STATIC",
+                                    "attributeValueIsEnum": false,
+                                    "attributeNameType": "STRING",
+                                    "attributeValueMultipleAllowed": false
+                                },
+                                "not": false
+                            }
+                        ],
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": null,
+                        "not": false
+                    }
+                ],
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": null,
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 3,
+        "hitCounts": 0,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "3b974da5-3ec6-421e-8e46-b94fb6179946",
+        "state": "ENABLED",
+        "name": "IDG_Access_Juniper",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#IDG_Juniper",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 4,
+        "hitCounts": 171,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "d802c4ce-5bde-458a-8671-f054a1fb6f0a",
+        "state": "ENABLED",
+        "name": "Open Gear",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "Network Access",
+                    "lhsAttribute": "NetworkDeviceName",
+                    "rhsDictionary": null,
+                    "rhsAttribute": "OSW",
+                    "attributeName": "Network Access.NetworkDeviceName",
+                    "operator": "CONTAINS",
+                    "attributeValue": "OSW",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": false,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 5,
+        "hitCounts": 4810,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "fa5dd6b2-1157-4128-aa32-c08f5f5a3a70",
+        "state": "ENABLED",
+        "name": "Private IAAS Project",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "OR_BLOCK",
+                "children": [
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "Network Access",
+                            "lhsAttribute": "NetworkDeviceName",
+                            "rhsDictionary": null,
+                            "rhsAttribute": "ash",
+                            "attributeName": "Network Access.NetworkDeviceName",
+                            "operator": "CONTAINS",
+                            "attributeValue": "ash",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": false,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "Network Access",
+                            "lhsAttribute": "NetworkDeviceName",
+                            "rhsDictionary": null,
+                            "rhsAttribute": "tor",
+                            "attributeName": "Network Access.NetworkDeviceName",
+                            "operator": "CONTAINS",
+                            "attributeValue": "tor",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": false,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "Network Access",
+                            "lhsAttribute": "NetworkDeviceName",
+                            "rhsDictionary": null,
+                            "rhsAttribute": "vxr0",
+                            "attributeName": "Network Access.NetworkDeviceName",
+                            "operator": "CONTAINS",
+                            "attributeValue": "vxr0",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": false,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    }
+                ],
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": null,
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 6,
+        "hitCounts": 6278,
+        "serviceName": "Default Network Access",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "4d06a43f-48a6-4d72-a852-6b50587ac02b",
+        "state": "ENABLED",
+        "name": "SDWAN-Vedge",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#SDWAN",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 7,
+        "hitCounts": 2519968,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "cd1f258d-2106-4558-8700-f7ed1df44559",
+        "state": "ENABLED",
+        "name": "TUFIN_ACCESS",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#Tufin",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 8,
+        "hitCounts": 15,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "f42f9b36-c441-49c1-b3ec-576715ea5de0",
+        "state": "ENABLED",
+        "name": "NTP",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#NTP",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 9,
+        "hitCounts": 34,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "03e2e0a8-dfd4-47b3-8047-cba70db885dd",
+        "state": "ENABLED",
+        "name": "CP_ACCESS - SmartDashboard Auth",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "AND_BLOCK",
+                "children": [
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "DEVICE",
+                            "lhsAttribute": "Device Type",
+                            "rhsDictionary": null,
+                            "rhsAttribute": null,
+                            "attributeName": "DEVICE.Device Type",
+                            "operator": "EQUALS",
+                            "attributeValue": "All Device Types#Checkpoint",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": true,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "OR_BLOCK",
+                        "children": [
+                            {
+                                "name": null,
+                                "description": null,
+                                "tags": null,
+                                "conditionId": null,
+                                "icon": null,
+                                "type": "SINGLE",
+                                "children": null,
+                                "simpleOrDateTime": "SIMPLE",
+                                "attributes": {
+                                    "lhsDictionary": "Network Access",
+                                    "lhsAttribute": "Device IP Address",
+                                    "rhsDictionary": null,
+                                    "rhsAttribute": "10.224.0.115",
+                                    "attributeName": "Network Access.Device IP Address",
+                                    "operator": "EQUALS",
+                                    "attributeValue": "10.224.0.115",
+                                    "attributeValueType": "STATIC",
+                                    "attributeValueIsEnum": false,
+                                    "attributeNameType": "IPV4",
+                                    "attributeValueMultipleAllowed": false
+                                },
+                                "not": false
+                            },
+                            {
+                                "name": null,
+                                "description": null,
+                                "tags": null,
+                                "conditionId": null,
+                                "icon": null,
+                                "type": "SINGLE",
+                                "children": null,
+                                "simpleOrDateTime": "SIMPLE",
+                                "attributes": {
+                                    "lhsDictionary": "Network Access",
+                                    "lhsAttribute": "Device IP Address",
+                                    "rhsDictionary": null,
+                                    "rhsAttribute": "10.224.2.115",
+                                    "attributeName": "Network Access.Device IP Address",
+                                    "operator": "EQUALS",
+                                    "attributeValue": "10.224.2.115",
+                                    "attributeValueType": "STATIC",
+                                    "attributeValueIsEnum": false,
+                                    "attributeNameType": "IPV4",
+                                    "attributeValueMultipleAllowed": false
+                                },
+                                "not": false
+                            },
+                            {
+                                "name": null,
+                                "description": null,
+                                "tags": null,
+                                "conditionId": null,
+                                "icon": null,
+                                "type": "SINGLE",
+                                "children": null,
+                                "simpleOrDateTime": "SIMPLE",
+                                "attributes": {
+                                    "lhsDictionary": "Network Access",
+                                    "lhsAttribute": "Device IP Address",
+                                    "rhsDictionary": null,
+                                    "rhsAttribute": "10.23.34.26",
+                                    "attributeName": "Network Access.Device IP Address",
+                                    "operator": "EQUALS",
+                                    "attributeValue": "10.23.34.26",
+                                    "attributeValueType": "STATIC",
+                                    "attributeValueIsEnum": false,
+                                    "attributeNameType": "IPV4",
+                                    "attributeValueMultipleAllowed": false
+                                },
+                                "not": false
+                            }
+                        ],
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": null,
+                        "not": false
+                    }
+                ],
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": null,
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 10,
+        "hitCounts": 0,
+        "serviceName": "Default Network Access",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "b3cbc0b5-690d-428e-a8dc-1ed2524035d7",
+        "state": "ENABLED",
+        "name": "CP_ACCESS - Tenable-CSOC-Scan",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "AND_BLOCK",
+                "children": [
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "DEVICE",
+                            "lhsAttribute": "Device Type",
+                            "rhsDictionary": null,
+                            "rhsAttribute": null,
+                            "attributeName": "DEVICE.Device Type",
+                            "operator": "EQUALS",
+                            "attributeValue": "All Device Types#Checkpoint",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": true,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "OR_BLOCK",
+                        "children": [
+                            {
+                                "name": null,
+                                "description": null,
+                                "tags": null,
+                                "conditionId": null,
+                                "icon": null,
+                                "type": "SINGLE",
+                                "children": null,
+                                "simpleOrDateTime": "SIMPLE",
+                                "attributes": {
+                                    "lhsDictionary": "TACACS",
+                                    "lhsAttribute": "User",
+                                    "rhsDictionary": null,
+                                    "rhsAttribute": "SRV-NessusFirewallAd",
+                                    "attributeName": "TACACS.User",
+                                    "operator": "EQUALS",
+                                    "attributeValue": "SRV-NessusFirewallAd",
+                                    "attributeValueType": "STATIC",
+                                    "attributeValueIsEnum": false,
+                                    "attributeNameType": "STRING",
+                                    "attributeValueMultipleAllowed": false
+                                },
+                                "not": false
+                            },
+                            {
+                                "name": null,
+                                "description": null,
+                                "tags": null,
+                                "conditionId": null,
+                                "icon": null,
+                                "type": "SINGLE",
+                                "children": null,
+                                "simpleOrDateTime": "SIMPLE",
+                                "attributes": {
+                                    "lhsDictionary": "TACACS",
+                                    "lhsAttribute": "User",
+                                    "rhsDictionary": null,
+                                    "rhsAttribute": "SRV-TenableFWAdmin",
+                                    "attributeName": "TACACS.User",
+                                    "operator": "EQUALS",
+                                    "attributeValue": "SRV-TenableFWAdmin",
+                                    "attributeValueType": "STATIC",
+                                    "attributeValueIsEnum": false,
+                                    "attributeNameType": "STRING",
+                                    "attributeValueMultipleAllowed": false
+                                },
+                                "not": false
+                            }
+                        ],
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": null,
+                        "not": false
+                    }
+                ],
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": null,
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 11,
+        "hitCounts": 102902,
+        "serviceName": "Default Network Access",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "1cdf983c-f1ec-4492-9200-1f5fb10b9ca9",
+        "state": "ENABLED",
+        "name": "CP_ACCESS - Admin",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#Checkpoint",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 12,
+        "hitCounts": 900,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "36ad0d0a-93cf-4aee-909b-084e26ed9bbf",
+        "state": "ENABLED",
+        "name": "FPR_Access",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#Firepower",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 13,
+        "hitCounts": 1088,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "5f7c5de5-a99f-457e-9015-b7567bf0a04c",
+        "state": "ENABLED",
+        "name": "PaloAlto_Access",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#PaloAlto",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 14,
+        "hitCounts": 11,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "780cd2a5-37f7-4008-826a-6aac996561f2",
+        "state": "ENABLED",
+        "name": "FW_ACCESS",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "AND_BLOCK",
+                "children": [
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "DEVICE",
+                            "lhsAttribute": "Location",
+                            "rhsDictionary": null,
+                            "rhsAttribute": null,
+                            "attributeName": "DEVICE.Location",
+                            "operator": "EQUALS",
+                            "attributeValue": "All Locations#HODC-FJ-Managed",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": true,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    },
+                    {
+                        "name": null,
+                        "description": null,
+                        "tags": null,
+                        "conditionId": null,
+                        "icon": null,
+                        "type": "SINGLE",
+                        "children": null,
+                        "simpleOrDateTime": "SIMPLE",
+                        "attributes": {
+                            "lhsDictionary": "DEVICE",
+                            "lhsAttribute": "Device Type",
+                            "rhsDictionary": null,
+                            "rhsAttribute": null,
+                            "attributeName": "DEVICE.Device Type",
+                            "operator": "EQUALS",
+                            "attributeValue": "All Device Types#Firewall",
+                            "attributeValueType": "STATIC",
+                            "attributeValueIsEnum": true,
+                            "attributeNameType": "STRING",
+                            "attributeValueMultipleAllowed": false
+                        },
+                        "not": false
+                    }
+                ],
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": null,
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 15,
+        "hitCounts": 1687558,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "e4384b74-8ef2-43d7-bff5-61185e17b6e8",
+        "state": "ENABLED",
+        "name": "CP_ACCESS - Default",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#Checkpoint",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 16,
+        "hitCounts": 261,
+        "serviceName": "Default Network Access",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "bd30a343-b5a7-400b-b2ca-43fe428ed3f5",
+        "state": "ENABLED",
+        "name": "IDG_Access",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#IDG",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 17,
+        "hitCounts": 0,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "a6d522da-f768-489c-a85f-660651dbdf0e",
+        "state": "ENABLED",
+        "name": "JUNIPER_ACCESS",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#Juniper",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 18,
+        "hitCounts": 0,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "4f8e17ea-945e-4f88-ab29-ee5ef526ff93",
+        "state": "ENABLED",
+        "name": "CPI_Access",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#Cisco Prime Infrastructure",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 19,
+        "hitCounts": 5669,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "dc2a2a79-699f-4161-89b9-143cedd578a2",
+        "state": "ENABLED",
+        "name": "UCS_ACCESS",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#Fabric Interconnect",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 20,
+        "hitCounts": 211887,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "55db5245-6442-40c5-a96f-bfd38759ca71",
+        "state": "ENABLED",
+        "name": "F5_ACCESS",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#F5 Load Balancer",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 21,
+        "hitCounts": 1356,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "1c309b3b-7468-4695-9e2f-320850d22256",
+        "state": "ENABLED",
+        "name": "F5 BIG-IQ",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#F5 BIG-IQ",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 22,
+        "hitCounts": 67,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "d202a5e2-b83c-44f4-af82-3a23aaca8cfa",
+        "state": "ENABLED",
+        "name": "ACI_ACCESS",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#ACI",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 23,
+        "hitCounts": 125919,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "5b85d611-7754-4a6c-a892-b3b03729466e",
+        "state": "ENABLED",
+        "name": "ACE_ACCESS",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#ACE",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 24,
+        "hitCounts": 0,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "1ab4c023-4773-4dde-bc62-7b617a7c6bd8",
+        "state": "ENABLED",
+        "name": "Tenable_Access",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "TACACS",
+                    "lhsAttribute": "User",
+                    "rhsDictionary": null,
+                    "rhsAttribute": "SRV-TenableNSwitch",
+                    "attributeName": "TACACS.User",
+                    "operator": "EQUALS",
+                    "attributeValue": "SRV-TenableNSwitch",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": false,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": "Tenable RO",
+        "rank": 25,
+        "hitCounts": 0,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "cdc7936d-dd70-4083-8e52-5608d877c704",
+        "state": "ENABLED",
+        "name": "Switches",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#switch",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 26,
+        "hitCounts": 16294453,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "4ccad332-66d9-46fd-8fb2-4e4e9b49995b",
+        "state": "ENABLED",
+        "name": "NPPV3-NX",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#NPPV3-NX-SW",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": "LECN Switch",
+        "rank": 27,
+        "hitCounts": 491002,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "eb85c4e2-f32e-49e4-9498-31176295829b",
+        "state": "ENABLED",
+        "name": "NPPV3-LENNI",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#LENNI-FW",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 28,
+        "hitCounts": 0,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "82263d47-3f24-414f-9bdd-893fd3a62f8d",
+        "state": "ENABLED",
+        "name": "NPPV3-CP",
+        "conditionObject": {
+            "Field1": {
+                "name": null,
+                "description": null,
+                "tags": null,
+                "conditionId": null,
+                "icon": null,
+                "type": "SINGLE",
+                "children": null,
+                "simpleOrDateTime": "SIMPLE",
+                "attributes": {
+                    "lhsDictionary": "DEVICE",
+                    "lhsAttribute": "Device Type",
+                    "rhsDictionary": null,
+                    "rhsAttribute": null,
+                    "attributeName": "DEVICE.Device Type",
+                    "operator": "EQUALS",
+                    "attributeValue": "All Device Types#NPPV3-FW",
+                    "attributeValueType": "STATIC",
+                    "attributeValueIsEnum": true,
+                    "attributeNameType": "STRING",
+                    "attributeValueMultipleAllowed": false
+                },
+                "not": false
+            }
+        },
+        "description": null,
+        "rank": 29,
+        "hitCounts": 28405,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": false
+    },
+    {
+        "id": "f884cd2f-7494-4c0a-9d1f-500e8aedadfd",
+        "state": "ENABLED",
+        "name": "Default",
+        "conditionObject": {},
+        "description": "Tacacs Default policy set",
+        "rank": 30,
+        "hitCounts": 1379899,
+        "serviceName": "Default Device Admin",
+        "allowedProtocols": null,
+        "isProxy": false,
+        "isDuplicated": false,
+        "duplicationSourceId": null,
+        "default": true
+    }
+]
