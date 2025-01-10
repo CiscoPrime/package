@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 import requests
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
-
+from resources import SUPPORTED_RESOURCES
 
 class ISEApiClient:
     def __init__(self, base_url, username, password):
