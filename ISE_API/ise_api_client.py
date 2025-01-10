@@ -52,36 +52,36 @@ class ISEApiClient:
             raise ValueError("CSRF token not found.")
 
     def send_request(self, endpoint, method="GET", data=None, requires_csrf=False, resource_name=None):
-        # Start with default headers
+        # Default headers
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
             "Content-Type": "application/x-www-form-urlencoded",
             "Referer": f"{self.base_url}/admin/login.jsp"
         }
-
+    
+        # CSRF token if required
         if requires_csrf:
             csrf_token = self.get_csrf_token()
             headers["OWASP_CSRFTOKEN"] = csrf_token
-
-        # Resource-specific headers for `sync_action`
-        if resource_name == "sync_action":
-            headers["_QPH_"] = "Y29tbWFuZD1zeW5jdXBEQg=="
-            headers["X-Requested-With"] = "XMLHttpRequest"
-
-        # Add required cookies
+    
+        # Add resource-specific headers from SUPPORTED_RESOURCES
+        resource_headers = SUPPORTED_RESOURCES.get(resource_name, {}).get("headers", {})
+        headers.update(resource_headers)  # Merge default headers with resource-specific headers
+    
+        # Cookies
         cookies = {
             "APPSESSIONID": self.session.cookies.get("APPSESSIONID"),
             "networkDevicequickFilterNotification": "true",
             "SaveStateCookie": "root"
         }
-
+    
         url = f"{self.base_url}/{endpoint}"
         print(f"Sending {method} request to {url} with resource: {resource_name}...")
-
+    
         # Send the request
         response = self.session.request(method, url, headers=headers, cookies=cookies, data=data, verify=False)
-
+    
         print(f"Response Status Code: {response.status_code}")
         if "<html" in response.text.lower():
             print("Error: Received an HTML page (likely a redirect to the login page).")
