@@ -1,0 +1,40 @@
+PS C:\Users\p-langles3\Documents\Gitlab> e:/sharedPyLib/python.exe c:/Users/p-langles3/Documents/Gitlab/ISE_API/ise_api.py --resource system_summary
+Authenticating...
+Logging in to https://10.23.18.218/admin/LoginAction.do...
+Login successful. Session ID: 14A0528DCC3049D920834D1D503D5644
+Session ID: 14A0528DCC3049D920834D1D503D5644
+Executing GET request to endpoint 'admin/rs/uiapi/dashboard/generic/fetchData' with parameters {}
+Fetching CSRF token from https://10.23.18.218/admin/...
+Extracted CSRF Token: UERG-K51Z-UD5G-B5DC-LPCD-XTF3-R9EU-SRJM
+Sending GET request to https://10.23.18.218/admin/rs/uiapi/dashboard/generic/fetchData with resource: system_summary...
+Response Status Code: 500
+Failed request. Response: No message body writer has been found for class java.util.HashMap, ContentType: application/xml
+No data returned.
+Logging out...
+Successfully logged out.
+PS C:\Users\p-langles3\Documents\Gitlab>
+ *  History restored 
+
+PowerShell 7.4.6
+PS C:\Users\p-langles3\Documents\Gitlab>
+
+
+
+curl as bash
+curl 'https://10.23.18.218/admin/rs/uiapi/dashboard/generic/fetchData' \
+  -H 'Connection: keep-alive' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+  -H '_QPH_: cXVlcnk9c3lzdGVtU3VtbWFyeQ==' \
+  -H 'OWASP_CSRFTOKEN: UNHN-JIRQ-19VQ-54VT-FU4W-U9FI-H1WT-3ZTO' \
+  -H 'X-Requested-With: XMLHttpRequest, XMLHttpRequest' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://10.23.18.218/admin/' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Cookie: networkDevicequickFilterNotification=true; APPSESSIONID=9507F1F1D199DEEF5B3601E595EA9486' \
+  --compressed \
+  --insecure

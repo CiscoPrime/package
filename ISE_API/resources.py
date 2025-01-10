@@ -29,12 +29,7 @@ SUPPORTED_RESOURCES = {
         "requires_csrf": True,
         "params": [],  # No extra parameters for this request
         "headers": {
-<<<<<<< Updated upstream
-            "_QPH_": "cXVlcnk9c3lzdGVtU3VtbWFyeQ==",
-            "X-Requested-With": "XMLHttpRequest, XMLHttpRequest"
-=======
             "_QPH_": "cXVlcnk9c3lzdGVtU3VtbWFyeQ=="
->>>>>>> Stashed changes
         }  # No custom headers needed for this request
     }
 }
