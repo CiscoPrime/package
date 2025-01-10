@@ -1,0 +1,23 @@
+{
+    "devices": [
+      {
+        "ip": "10.23.255.101",
+        "type": "router",
+        "username": "NOCAnsible",
+        "password": "?a+Ltri3=e1aJO8!iDuP"
+      }
+    ],
+    "device_commands": {
+      "router": [
+        "show run vrf | in ^ip vrf",
+        "show ip route vrf XVARIABLE | format"
+      ]
+    },
+    "command_settings": {
+      "show run vrf | in ^ip vrf": {
+        "save_output": false
+      }
+    }
+}
+  
+  
