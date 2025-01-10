@@ -7,7 +7,7 @@
         "password": "?a+Ltri3=e1aJO8!iDuP"
       },
       {
-        "ip": "192.168.1.1",  // Replace with your firewall IP
+        "ip": "192.168.1.1",
         "type": "firewall",
         "username": "admin",
         "password": "YourFirewallPassword"
