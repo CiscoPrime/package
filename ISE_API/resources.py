@@ -26,11 +26,16 @@ SUPPORTED_RESOURCES = {
     "system_summary": {
         "path": "admin/rs/uiapi/dashboard/generic/fetchData",
         "method": "GET",
+<<<<<<< Updated upstream
         "requires_csrf": False,
+=======
+        "requires_csrf": True,
+>>>>>>> Stashed changes
         "params": [],  # No extra parameters for this request
         "headers": {
             "_QPH_": "cXVlcnk9c3lzdGVtU3VtbWFyeQ=="
         }  # No custom headers needed for this request
+<<<<<<< Updated upstream
     },
     "context": {
         "path": "admin/rs/uiapi/visibility",
@@ -49,5 +54,7 @@ SUPPORTED_RESOURCES = {
         "headers": {
             "_QPH_": "ZmlsdGVyQ3JpdGVyaWE9JTdCJTIycHJlZGljYXRlJTIyJTNBJTIyYWxsJTIyJTJDJTIyY29uZGl0aW9ucyUyMiUzQSU1QiU3QiUyMmF0dHIlMjIlM0ElMjJFbmRQb2ludFBvbGljeSUyMiUyQyUyMm9wZXJhdG9yJTIyJTNBJTIyY29udGFpbnMlMjIlMkMlMjJ2YWx1ZSUyMiUzQSUyMmNpc2NvLWFwJTIyJTdEJTVEJTdEJkVuZFBvaW50UG9saWN5PWNpc2NvLWFwJmNvbHVtbnM9TUFDQWRkcmVzcyUyQ0VuZFBvaW50UG9saWN5JTJDSWRlbnRpdHlHcm91cCZzb3J0Qnk9TUFDQWRkcmVzcyZzdGFydEF0PTEmcGFnZVNpemU9MzAwMCZ0b3RhbF9wYWdlcz0zMTcmdG90YWxfZW50cmllcz0zMTcw"
         }  # No custom headers needed for this request
+=======
+>>>>>>> Stashed changes
     }
 }
