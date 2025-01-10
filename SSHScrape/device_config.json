@@ -5,12 +5,26 @@
         "type": "router",
         "username": "NOCAnsible",
         "password": "?a+Ltri3=e1aJO8!iDuP"
+      },
+      {
+        "ip": "192.168.1.1",  // Replace with your firewall IP
+        "type": "firewall",
+        "username": "admin",
+        "password": "YourFirewallPassword"
       }
     ],
     "device_commands": {
       "router": [
         "show run vrf | in ^ip vrf",
         "show ip route vrf XVARIABLE | format"
+      ],
+      "firewall": [
+        "show access-list",
+        "show conn",
+        "show nat detail",
+        "show arp",
+        "show interface",
+        "show route"
       ]
     },
     "command_settings": {
@@ -19,5 +33,3 @@
       }
     }
 }
-  
-  
