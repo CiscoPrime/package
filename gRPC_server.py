@@ -1,10 +1,9 @@
 import grpc
 from concurrent import futures
 import logging
+from cisco_gnmi import proto
+from cisco_gnmi.proto import telemetry_pb2
 import time
-import telemetry_pb2  # Cisco telemetry .proto bindings
-import telemetry_pb2_grpc  # gRPC service from Cisco proto
-from google.protobuf.json_format import MessageToDict
 
 # Configure logging to file
 logging.basicConfig(
@@ -14,65 +13,53 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-# Implement the service
-class TelemetryServiceServicer(telemetry_pb2_grpc.TelemetryServiceServicer):
-    def SendTelemetry(self, request_iterator, context):
-        try:
-            for request in request_iterator:
-                # Convert Protobuf message to dictionary for easier debugging/logging
-                telemetry_data = MessageToDict(request)
+# Implement the telemetry service
+class GNMITelemetryService(proto.gNMIProtoServicer):
+    def Subscribe(self, request_iterator, context):
+        """
+        Handles streaming telemetry data from WLC.
+        """
+        for request in request_iterator:
+            subscription_path = request.subscription_list.path
+            log_message = f"Telemetry stream received from {subscription_path}:\n"
 
-                # Extract relevant fields
-                controller_id = telemetry_data.get("controllerId", "Unknown")
-                timestamp = telemetry_data.get("timestamp", 0)
-                subscription_id = telemetry_data.get("subscriptionId", "Unknown")
-                encoding = telemetry_data.get("encoding", "Unknown")
+            for update in request.update:
+                for kv in update.kv:
+                    log_message += f"  {kv.key}: {kv.value}\n"
 
-                log_message = (
-                    f"Received telemetry from Controller ID: {controller_id}\n"
-                    f"Subscription ID: {subscription_id}\n"
-                    f"Encoding: {encoding}\n"
-                    f"Timestamp: {timestamp}\n"
-                    f"Telemetry Data: {telemetry_data.get('kvPairs', [])}"
-                )
+            logging.info(log_message)
+            print(f"Telemetry received and logged from {subscription_path}")
 
-                # Log telemetry data to file
-                logging.info(log_message)
-                print(f"Telemetry received from {controller_id}. Check logs for details.")
-
-            # Respond back to the WLC after stream ends
-            return telemetry_pb2.TelemetryResponse(
-                status="SUCCESS",
-                message="Telemetry stream processed successfully!"
+        return proto.SubscribeResponse(
+            response=proto.SubscribeResponse.Update(
+                update="Telemetry stream processed successfully!"
             )
-
-        except Exception as e:
-            logging.error(f"Error processing telemetry: {e}")
-            context.set_code(grpc.StatusCode.INTERNAL)
-            context.set_details(f"Internal server error: {e}")
-            return telemetry_pb2.TelemetryResponse(
-                status="FAILURE",
-                message=f"Error: {str(e)}"
-            )
+        )
 
 def serve():
-    # Server configuration and keepalive settings
     options = [
-        ('grpc.keepalive_time_ms', 10000),  # Keepalive pings every 10 seconds
-        ('grpc.keepalive_timeout_ms', 5000),  # Timeout for keepalive
+        ('grpc.keepalive_time_ms', 10000),
+        ('grpc.keepalive_timeout_ms', 5000),
         ('grpc.keepalive_permit_without_calls', 1),
+        ('grpc.http2.min_time_between_pings_ms', 10000),
+        ('grpc.http2.max_pings_without_data', 0),
+        ('grpc.http2.max_ping_strikes', 0),
     ]
 
+    # Create gRPC server
     server = grpc.server(futures.ThreadPoolExecutor(max_workers=10), options=options)
-    telemetry_pb2_grpc.add_TelemetryServiceServicer_to_server(TelemetryServiceServicer(), server)
+    
+    # Add telemetry service
+    proto.add_gNMIProtoServicer_to_server(GNMITelemetryService(), server)
     server.add_insecure_port('[::]:9090')
     logging.info("gRPC Server started, listening on port 9090...")
     print("gRPC Server started, listening on port 9090...")
-
+    
+    # Start the server
     server.start()
     try:
         while True:
-            time.sleep(86400)
+            time.sleep(86400)  # Keep the server alive for 24 hours
     except KeyboardInterrupt:
         logging.info("Shutting down server...")
         print("Shutting down server...")
