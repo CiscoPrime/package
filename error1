@@ -1,0 +1,24 @@
+Telemetry subscription detail:
+
+  Subscription ID: 101
+  Type: Configured
+  State: Valid
+  Stream: yang-push
+  Filter:
+    Filter type: xpath
+    XPath: /wireless-access-point-oper:access-point-oper-data/capwap-data
+  Update policy:
+    Update Trigger: periodic
+    Period: 3000
+  Encoding: encode-kvgpb
+  Source VRF:
+  Source Address: 10.23.20.140
+  Notes: Subscription validated
+
+  Named Receivers:
+    Name                                              Last State Change  State                 Explanation
+    -------------------------------------------------------------------------------------------------------------------------------------------------------
+    grpc-tcp://10.23.252.4:9090                       01/14/25 11:50:55  Connected
+
+
+HO-FRN-WLC-CL-1#
