@@ -1,44 +1,44 @@
 import grpc
 from concurrent import futures
 import logging
-from cisco_gnmi import proto
-from cisco_gnmi.proto import telemetry_pb2
 import time
+from grpc import ServicerContext
 
-# Configure logging to file
+# Proto imports (manually generated telemetry_pb2 and telemetry_pb2_grpc)
+import telemetry_pb2
+import telemetry_pb2_grpc
+
+# Configure logging to both console and file
 logging.basicConfig(
     filename="telemetry_server.log",
     filemode='a',
     format='%(asctime)s - %(levelname)s - %(message)s',
     level=logging.INFO
 )
+console_handler = logging.StreamHandler()  # Console handler for immediate output
+console_handler.setLevel(logging.INFO)
+logging.getLogger().addHandler(console_handler)
 
-# Implement the telemetry service
-class GNMITelemetryService(proto.gNMIProtoServicer):
-    def Subscribe(self, request_iterator, context):
+# Implement the gRPC service
+class TelemetryService(telemetry_pb2_grpc.TelemetryServiceServicer):
+    def Subscribe(self, request_iterator, context: ServicerContext):
         """
         Handles streaming telemetry data from WLC.
         """
         for request in request_iterator:
-            subscription_path = request.subscription_list.path
-            log_message = f"Telemetry stream received from {subscription_path}:\n"
-
-            for update in request.update:
-                for kv in update.kv:
-                    log_message += f"  {kv.key}: {kv.value}\n"
-
+            log_message = f"\nRAW TELEMETRY DATA RECEIVED:\n{request}\n"
             logging.info(log_message)
-            print(f"Telemetry received and logged from {subscription_path}")
+            print(log_message)  # Print immediately to console
 
-        return proto.SubscribeResponse(
-            response=proto.SubscribeResponse.Update(
-                update="Telemetry stream processed successfully!"
-            )
+        return telemetry_pb2.TelemetryResponse(
+            status="SUCCESS",
+            message="Telemetry stream processed successfully!"
         )
 
 def serve():
+    # Server keepalive options to maintain connection
     options = [
-        ('grpc.keepalive_time_ms', 10000),
+        ('grpc.keepalive_time_ms', 10000),  # Send keepalive pings every 10s
         ('grpc.keepalive_timeout_ms', 5000),
         ('grpc.keepalive_permit_without_calls', 1),
         ('grpc.http2.min_time_between_pings_ms', 10000),
@@ -48,9 +48,7 @@ def serve():
 
     # Create gRPC server
     server = grpc.server(futures.ThreadPoolExecutor(max_workers=10), options=options)
-    
-    # Add telemetry service
-    proto.add_gNMIProtoServicer_to_server(GNMITelemetryService(), server)
+    telemetry_pb2_grpc.add_TelemetryServiceServicer_to_server(TelemetryService(), server)
     server.add_insecure_port('[::]:9090')
     logging.info("gRPC Server started, listening on port 9090...")
     print("gRPC Server started, listening on port 9090...")
@@ -59,7 +57,7 @@ def serve():
     server.start()
     try:
         while True:
-            time.sleep(86400)  # Keep the server alive for 24 hours
+            time.sleep(86400)  # Keep the server running
     except KeyboardInterrupt:
         logging.info("Shutting down server...")
         print("Shutting down server...")
