@@ -1,0 +1,27 @@
+PS C:\GRPC\server> python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. telemetry.proto
+PS C:\GRPC\server> & "C:/Program Files/Python310/python.exe" c:/GRPC/Server/grpc_server.py
+Traceback (most recent call last):
+  File "c:\GRPC\Server\grpc_server.py", line 4, in <module>
+    from cisco_gnmi import proto
+  File "C:\Program Files\Python310\lib\site-packages\cisco_gnmi\__init__.py", line 27, in <module>
+    from .client import Client
+  File "C:\Program Files\Python310\lib\site-packages\cisco_gnmi\client.py", line 30, in <module>
+    from . import proto
+  File "C:\Program Files\Python310\lib\site-packages\cisco_gnmi\proto\__init__.py", line 25, in <module>
+    from . import gnmi_pb2_grpc
+  File "C:\Program Files\Python310\lib\site-packages\cisco_gnmi\proto\gnmi_pb2_grpc.py", line 4, in <module>
+    from . import gnmi_pb2 as gnmi__pb2
+  File "C:\Program Files\Python310\lib\site-packages\cisco_gnmi\proto\gnmi_pb2.py", line 19, in <module>
+    from . import gnmi_ext_pb2 as gnmi__ext__pb2
+  File "C:\Program Files\Python310\lib\site-packages\cisco_gnmi\proto\gnmi_ext_pb2.py", line 33, in <module>
+    _descriptor.EnumValueDescriptor(
+  File "C:\Program Files\Python310\lib\site-packages\google\protobuf\descriptor.py", line 920, in __new__
+    _message.Message._CheckCalledFromGeneratedFile()
+TypeError: Descriptors cannot be created directly.
+If this call came from a _pb2.py file, your generated code is out of date and must be regenerated with protoc >= 3.19.0.
+If you cannot immediately regenerate your protos, some other possible workarounds are:
+ 1. Downgrade the protobuf package to 3.20.x or lower.
+ 2. Set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python (but this will use pure-Python parsing and will be much slower).
+
+More information: https://developers.google.com/protocol-buffers/docs/news/2022-05-06#python-updates
+PS C:\GRPC\server>
