@@ -1,0 +1,14 @@
+PS C:\Users\p-langles3\Documents\Temp> & e:/sharedPyLib/python.exe c:/Users/p-langles3/Documents/Temp/restapi.py
+Traceback (most recent call last):
+  File "c:\Users\p-langles3\Documents\Temp\restapi.py", line 1, in <module>
+    from ncclient import manager
+  File "E:\sharedPyLib\Lib\site-packages\ncclient\manager.py", line 21, in <module>
+    from ncclient import operations
+  File "E:\sharedPyLib\Lib\site-packages\ncclient\operations\__init__.py", line 16, in <module>
+    from ncclient.operations.rpc import RPC, RPCReply, RPCError, RaiseMode, GenericRPC
+  File "E:\sharedPyLib\Lib\site-packages\ncclient\operations\rpc.py", line 18, in <module>
+    from ncclient.xml_ import *
+  File "E:\sharedPyLib\Lib\site-packages\ncclient\xml_.py", line 25, in <module>
+    from lxml import etree
+ImportError: cannot import name 'etree' from 'lxml' (E:\sharedPyLib\Lib\site-packages\lxml\__init__.py)
+PS C:\Users\p-langles3\Documents\Temp>
