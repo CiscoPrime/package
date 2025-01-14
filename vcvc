@@ -1,0 +1,30 @@
+C:\Windows\system32>cisco-gnmi grpc -netloc 0.0.0.0:9090 -debug
+ERROR:root:grpc not in supported RPCs: capabilities, subscribe, get, set!
+usage:
+cisco-gnmi <rpc> [<args>]
+
+Version 1.0.16
+
+Supported RPCs:
+capabilities
+get
+set
+subscribe
+
+cisco-gnmi capabilities 127.0.0.1:57500
+cisco-gnmi get 127.0.0.1:57500 -xpath /interfaces/interface/state/counters
+cisco-gnmi set 127.0.0.1:57500 -update_json_config newconfig.json
+cisco-gnmi subscribe 127.0.0.1:57500 -xpath /interfaces/interface/state/counters -dump_file intfcounters.proto.txt
+
+See <rpc> --help for RPC options.
+
+
+gNMI CLI demonstrating cisco_gnmi library usage.
+
+positional arguments:
+  rpc         gNMI RPC to perform against network element.
+
+options:
+  -h, --help  show this help message and exit
+
+C:\Windows\system32>
