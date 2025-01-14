@@ -2,19 +2,27 @@ syntax = "proto3";
 
 package telemetry;
 
-// Define the service
+// Service definition
 service TelemetryService {
-  rpc SendTelemetry (TelemetryRequest) returns (TelemetryResponse);
+  rpc SendTelemetry (stream TelemetryRequest) returns (TelemetryResponse);
+}
+
+// Key-Value Telemetry Data
+message KeyValue {
+  string key = 1;   // Field key
+  string value = 2; // Corresponding value
 }
 
 // Message sent from WLC
 message TelemetryRequest {
-  string controller_id = 1;
-  string telemetry_data = 2;
-  int64 timestamp = 3;
+  string controller_id = 1;  // Controller ID
+  string subscription_id = 2;  // Subscription ID
+  string encoding = 3;  // Encoding type (e.g., "encode-kvgpb")
+  repeated KeyValue kv_pairs = 4;  // Key-value pairs of telemetry data
+  int64 timestamp = 5;  // Timestamp
 }
 
-// Response from the server
+// Server's response to client
 message TelemetryResponse {
   string status = 1;
   string message = 2;
