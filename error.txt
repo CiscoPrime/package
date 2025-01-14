@@ -1,14 +1,16 @@
-PS C:\Users\p-langles3\Documents\Temp> & e:/sharedPyLib/python.exe c:/Users/p-langles3/Documents/Temp/restapi.py
+PS C:\Functions\RESTAPI> & "C:/Program Files/Python310/python.exe" c:/Functions/RESTAPI/TEST.PY
 Traceback (most recent call last):
-  File "c:\Users\p-langles3\Documents\Temp\restapi.py", line 1, in <module>
+  File "c:\Functions\RESTAPI\TEST.PY", line 1, in <module>
     from ncclient import manager
-  File "E:\sharedPyLib\Lib\site-packages\ncclient\manager.py", line 21, in <module>
+  File "C:\Program Files\Python310\lib\site-packages\ncclient\manager.py", line 21, in <module>
     from ncclient import operations
-  File "E:\sharedPyLib\Lib\site-packages\ncclient\operations\__init__.py", line 16, in <module>
+  File "C:\Program Files\Python310\lib\site-packages\ncclient\operations\__init__.py", line 16, in <module>
     from ncclient.operations.rpc import RPC, RPCReply, RPCError, RaiseMode, GenericRPC
-  File "E:\sharedPyLib\Lib\site-packages\ncclient\operations\rpc.py", line 18, in <module>
-    from ncclient.xml_ import *
-  File "E:\sharedPyLib\Lib\site-packages\ncclient\xml_.py", line 25, in <module>
-    from lxml import etree
-ImportError: cannot import name 'etree' from 'lxml' (E:\sharedPyLib\Lib\site-packages\lxml\__init__.py)
-PS C:\Users\p-langles3\Documents\Temp>
+  File "C:\Program Files\Python310\lib\site-packages\ncclient\operations\rpc.py", line 20, in <module>
+    from ncclient.transport import SessionListener
+  File "C:\Program Files\Python310\lib\site-packages\ncclient\transport\__init__.py", line 20, in <module>
+    from ncclient.transport.unixSocket import UnixSocketSession
+  File "C:\Program Files\Python310\lib\site-packages\ncclient\transport\unixSocket.py", line 18, in <module>
+    from socket import AF_UNIX, SOCK_STREAM
+ImportError: cannot import name 'AF_UNIX' from 'socket' (C:\Program Files\Python310\lib\socket.py)
+PS C:\Functions\RESTAPI>
