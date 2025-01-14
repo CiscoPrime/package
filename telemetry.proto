@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package telemetry;
+
+// Define the service
+service TelemetryService {
+  rpc SendTelemetry (TelemetryRequest) returns (TelemetryResponse);
+}
+
+// Message sent from WLC
+message TelemetryRequest {
+  string controller_id = 1;
+  string telemetry_data = 2;
+  int64 timestamp = 3;
+}
+
+// Response from the server
+message TelemetryResponse {
+  string status = 1;
+  string message = 2;
+}
