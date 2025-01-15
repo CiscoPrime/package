@@ -1,1 +1,27 @@
-Get-ChildItem -Path . -Filter *.yang -Recurse | Select-String -Pattern "(?ms)^\s{2}container\s" | ForEach-Object { "$($_.Path):$($_.LineNumber): $($_.Line)" }
+Get-ChildItem -Path . -Filter *.yang -Recurse | ForEach-Object {
+    $filePath = $_.FullName
+    $content = Get-Content $filePath
+    $containerName = ""
+    $insideContainer = $false
+
+    for ($i = 0; $i -lt $content.Length; $i++) {
+        $line = $content[$i]
+
+        # Check for a top-level container line (2-space indent)
+        if ($line -match "^\s{2}container\s+(\w+)\s*{") {
+            $containerName = $matches[1]
+            $insideContainer = $true
+        }
+
+        # Check if the current line matches "key" or "description" with "mac"
+        if ($insideContainer -and ($line -match "key\s+\".*mac.*\"" -or $line -match "description\s+\".*mac.*\"")) {
+            $matchType = $line -match "key" ? "Key" : "Description"
+            Write-Output "$filePath: Container `$containerName`: $matchType Match: $line"
+        }
+
+        # Check for the end of the current container (closing brace "}")
+        if ($line -match "^\s{2}}") {
+            $insideContainer = $false
+        }
+    }
+}
