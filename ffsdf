@@ -1,0 +1,38 @@
+    description
+      "MAC address to IP binding";
+    container ip-key {
+      description
+        "IP address";
+      uses wireless-client-oper:sisf-db-ip-key;
+    }
+  }
+
+  grouping sisf-db-mac-entry {
+    description
+      "MAC address to IP binding";
+    leaf mac-addr {
+      type yang:mac-address;
+      description
+        "MAC address";
+    }
+    container ipv4-binding {
+      description
+        "IPv4 binding";
+      uses wireless-client-oper:sisf-db-mac-ip-binding;
+    }
+    list ipv6-binding {
+      max-elements 8;
+      description
+        "IPv6 binding";
+      uses wireless-client-oper:sisf-db-mac-ip-binding;
+    }
+  }
+
+  container client-oper-data {
+    config false;
+    description
+      "Root container of wireless client operational parameters";
+    list common-oper-data {
+      key "client-mac";
+      description
+        "List containing common operational data of the client";
