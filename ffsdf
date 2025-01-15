@@ -1,4 +1,23 @@
-Get-ChildItem -Path . -Filter *.yang -Recurse | ForEach-Object {
+"PS C:\Users\solarwinds> C:\Users\solarwinds\Documents\Untitled1.ps1
+At C:\Users\solarwinds\Documents\Untitled1.ps1:17 char:59
++         if ($insideContainer -and ($line -match "key\s+\".*mac.*\"" - ...
++                                                           ~
+Missing property name after reference operator.
+At C:\Users\solarwinds\Documents\Untitled1.ps1:17 char:104
++ ... match "key\s+\".*mac.*\"" -or $line -match "description\s+\".*mac.*\" ...
++                                                                  ~
+Missing property name after reference operator.
+At C:\Users\solarwinds\Documents\Untitled1.ps1:18 char:45
++             $matchType = $line -match "key" ? "Key" : "Description"
++                                             ~
+Unexpected token '?' in expression or statement.
+At C:\Users\solarwinds\Documents\Untitled1.ps1:19 char:27
++             Write-Output "$filePath: Container `$containerName`: $mat ...
++                           ~~~~~~~~~~
+Variable reference is not valid. ':' was not followed by a valid variable name character. Consider using ${} to delimit the name.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingPropertyName
+ Get-ChildItem -Path . -Filter *.yang -Recurse | ForEach-Object {
     $filePath = $_.FullName
     $content = Get-Content $filePath
     $containerName = ""
@@ -25,3 +44,4 @@ Get-ChildItem -Path . -Filter *.yang -Recurse | ForEach-Object {
         }
     }
 }
+fix this please"
