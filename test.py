@@ -1,4 +1,9 @@
 from ncclient import manager
+import os
+
+# Ensure environment compatibility on Windows
+# Patching to bypass AF_UNIX on Windows
+os.environ["NC_NO_UNIX_SOCKET"] = "1"
 
 # Device connection details
 device = {
@@ -24,10 +29,11 @@ netconf_filter = """
 </rpc>
 """
 
-# Connect to the device and execute the command
 try:
+    # Connect to the device using ncclient
     with manager.connect(**device) as m:
+        # Execute the NETCONF filter and retrieve the response
         response = m.dispatch(netconf_filter)
-        print(response.xml)  # Print the response from the WLC
+        print("Command Output:\n", response.xml)
 except Exception as e:
-    print(f"Error: {e}")
+    print(f"An error occurred: {e}")
