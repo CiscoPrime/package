@@ -10,7 +10,7 @@ device = {
     "host": "10.23.20.140",
     "port": 830,
     "username": "solarwinds",
-    "password": "TurboQuick5and!",
+    "password": "",
     "hostkey_verify": False
 }
 
