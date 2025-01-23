@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 from ncclient import manager
+=======
+>>>>>>> Stashed changes
 import os
 
 # Ensure environment compatibility on Windows
@@ -19,7 +22,7 @@ netconf_filter = """
 <rpc xmlns="urn:ietf:params:xml:ns:netconf:base:1.0" message-id="101">
     <get>
         <filter>
-            <show xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-show-ap-profile-oper">
+            <show xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-wireless-site-cfg">
                 <ap-profile>
                     <all-profiles/>
                 </ap-profile>
@@ -36,4 +39,8 @@ try:
         response = m.dispatch(netconf_filter)
         print("Command Output:\n", response.xml)
 except Exception as e:
+<<<<<<< Updated upstream
     print(f"An error occurred: {e}")
+=======
+    print(f"An error occurred: {e}")
+>>>>>>> Stashed changes
